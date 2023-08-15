@@ -41,6 +41,5 @@ class Main {
     //invocar os métodos
     eu.dizerNome();
     eu.dizerIdade();
-  
   }
 }
