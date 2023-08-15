@@ -7,4 +7,7 @@ Programa que imprime "Olá mundo! Sou a Fernanda Lopes Barbalho".
 ## Carros - 09/08/23
 Programa que imprime o modelo, o ano e a cor de três carros. Utiliza classes, atributos, métodos e objetos.
 
+## Pessoa - 15/08/23
+Programa que imprime o nome e a idade de uma pessoa. Utiliza atributos privados, getter e setter das variáveis.
+
 ## Ainda em Atualização
