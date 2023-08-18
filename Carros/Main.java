@@ -14,13 +14,13 @@ exibirAnoECor() - o método deverá exibir o ano e a cor do carro
   Marca: VW
   Modelo: Fusca
   Cor: Azul
-  Invoque os métodos exibirModelo() e exibirAnoECoro para o objeto criado (carro1)
+  Invoque os métodos exibirModelo() e exibirAnoECor() para o objeto criado (carro1)
 6. Crie um objeto com a referencia carroz com as seguintes características:
   Ano: 2000
   Marca: Ford
   Modelo: Fiesta
   Cor: Vermelho
-  Invoque os métodos exibirModelo) e exibirAnoECoro para o objeto criado (carro2)
+  Invoque os métodos exibirModelo) e exibirAnoECor() para o objeto criado (carro2)
 7. Crie um outro objeto referenciado pela variável meuCarro que carregará as informações que você escolher! (Escolha um carro qualquer e coloque as informações como dos exemplos anteriores!).
 */
 
