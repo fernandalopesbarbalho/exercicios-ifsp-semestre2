@@ -1,5 +1,5 @@
 /*
-1. Crie a classe: Carro java e Main.java 
+1. Crie a classe: Carro.java e Main.java 
 2. Adicione os atributos na classe carro:
   Ano (inteiro)
   marca (texto)
