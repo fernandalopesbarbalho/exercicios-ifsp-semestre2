@@ -27,9 +27,7 @@ class Pessoa {
   public void setIdade(int idade) {
     this.idade = idade;
   }
-}
 
-class Main {
   public static void main(String[] args) {
     //objeto eu
     Pessoa eu = new Pessoa();
