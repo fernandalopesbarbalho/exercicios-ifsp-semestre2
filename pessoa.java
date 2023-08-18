@@ -7,7 +7,6 @@
     getter e setter das variáveis 
 2. No método main:
   1. Criar um objeto Pessoa e usar todos os métodos!
-
 */
 
 class Pessoa {
