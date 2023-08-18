@@ -6,7 +6,7 @@
   modelo (texto)
   cor (texto)
 3. Adicione os métodos na classe carro:
-exibirModelo o método deverá um exibir o modelo do carro
+exibirModelo() - o método deverá um exibir o modelo do carro
 exibirAnoECor() - o método deverá exibir o ano e a cor do carro
 4. O arquivo Main.java deverá conter o método main
 5. Crie um objeto carro1 com as seguintes características:
