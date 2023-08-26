@@ -10,4 +10,7 @@ Programa que imprime o modelo, o ano e a cor de três carros. Utiliza classes, a
 ## Pessoa - 15/08/23
 Programa que imprime o nome e a idade de uma pessoa. Utiliza atributos privados, getter e setter das variáveis.
 
+## Formas - 26/08/23
+Programa que imprime o cálculo da área de três formas geométricas e informa suas cores. Utiliza array e for.
+
 ## Ainda em Atualização
