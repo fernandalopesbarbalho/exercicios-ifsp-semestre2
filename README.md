@@ -13,4 +13,7 @@ Programa que imprime o nome e a idade de uma pessoa. Utiliza atributos privados,
 ## Formas - 26/08/23
 Programa que imprime o cálculo da área de três formas geométricas e informa suas cores. Utiliza array e for.
 
+## Pets - 08/09/2023
+Programa que imprime sobre animais e robôs brincando. Utiliza classes abstratas, getter e setter, array, for e interface.
+
 ## Ainda em Atualização
