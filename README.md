@@ -16,4 +16,7 @@ Programa que imprime o cálculo da área de três formas geométricas e informa 
 ## Pets - 08/09/2023
 Programa que imprime sobre animais e robôs brincando. Utiliza classes abstratas, getter e setter, array, for e interface.
 
+## Mago - 17/09/2023
+Programa que imprime o comportamento de uma arma num jogo de mago. Utiliza super, if, else e else if.
+
 ## Ainda em Atualização
