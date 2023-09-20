@@ -19,4 +19,7 @@ Programa que imprime sobre animais e robôs brincando. Utiliza classes abstratas
 ## Mago - 17/09/2023
 Programa que imprime o comportamento de uma arma num jogo de mago. Utiliza super, if, else e else if.
 
+## Mago 2 - 20/09/2023
+Programa que imprime o comportamento de uma arma num jogo de mago. Utiliza super e sobrecarga de método.
+
 ## Ainda em Atualização
