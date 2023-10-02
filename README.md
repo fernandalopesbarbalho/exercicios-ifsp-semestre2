@@ -22,4 +22,7 @@ Programa que imprime o comportamento de uma arma num jogo de mago. Utiliza super
 ## Mago 2 - 20/09/2023
 Programa que imprime o comportamento de uma arma num jogo de mago. Utiliza super e sobrecarga de método.
 
+## Mago 3 - 01/10/2023
+Programa que imprime o jogador ganhador de um duelo de magos. Utiliza atributos, métodos e super.
+
 ## Ainda em Atualização
