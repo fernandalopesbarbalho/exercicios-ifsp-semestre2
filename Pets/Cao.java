@@ -18,5 +18,5 @@ public class Cao extends Canino implements Pet {
 
   public void brincar() {
     System.out.println("Cão está brincando");
-	}
+  }
 }
