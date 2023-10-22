@@ -25,4 +25,7 @@ Programa que imprime o comportamento de uma arma num jogo de mago. Utiliza super
 ## Mago 3 - 01/10/2023
 Programa que imprime o jogador ganhador de um duelo de magos. Utiliza atributos, métodos e super.
 
+## Item Mágico - 08/10/2023
+Programa que imprime o poder de um jogador antes e depois de ele usar itens mágicos. Utiliza classes abstratas e interface.
+
 ## Ainda em Atualização
