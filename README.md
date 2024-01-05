@@ -34,4 +34,5 @@ Programa que imprime os atributos de uma criatura slime. Utiliza construtores.
 ## Mercado - 29/10/2023
 Programa que simula um carrinho de compras. Utiliza listas.
 
-## Ainda em Atualização
+## Strategy - 10/12/2023
+Programa que imprime uma luta entre personagens e suas trocas de armas. Utiliza o padrão strategy.
